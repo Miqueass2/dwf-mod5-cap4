@@ -7,7 +7,7 @@
     "parcel": "^2.7.0"
   },
   "scripts": {
-    "dev": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "dev": "parcel serve ./index.html",
+    "build": "parcel build ./index.html"
   }
 }
